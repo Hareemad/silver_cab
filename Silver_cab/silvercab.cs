@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace silver_cab
 {
-    public partial class Form1 : Form
+    public partial class silvercab : Form
     {
-        public Form1()
+        public silvercab()
         {
             InitializeComponent();
         }
